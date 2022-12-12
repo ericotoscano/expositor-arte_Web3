@@ -1,1 +1,1 @@
-# expositor-arte_Web3
+# Expositor de Arte - Web3
